@@ -38,6 +38,6 @@ def MergeSort(A,inicio,fin):
         MergeSort(A,medio+1,fin)
         Combinar(A,inicio,medio,fin)
 
-ls=[15,7,3,1,6]
+ls=[15,7,3,1,6,64,90,13,4,76,89]
 MergeSort(ls,0,len(ls)-1)
 print(ls)
