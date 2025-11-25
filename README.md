@@ -44,11 +44,11 @@ El proyecto está organizado en carpetas individuales para cada uno de los siete
 
 | Módulo Generador | Archivos Generados (Ejemplos) | Módulo(s) Utilizador(es) |
 | :--- | :--- | :--- |
-| **1. Ordenamientos Comparativos** | `books-by-isbn.pkl` [cite: 27] | **3. [cite_start]Búsquedas** (Para crear tabla hash y buscar libros por ISBN)[cite: 58, 62]. |
-| **2. Ordenamientos No Comparativos** | `ratings-by-user-id.pkl` [cite: 48] | **3. [cite_start]Búsquedas** (Para búsqueda binaria de ratings)[cite: 59, 64]. |
-| **3. Búsquedas** | Archivo `.pkl` con la **Tabla Hash** [cite: 69] | Ninguno listado directamente. |
-| **4. Árboles Binarios** | `*-tree.pkl`, `sorted-data.csv` [cite: 86] | Ninguno listado directamente. |
-| **5. Árboles N-arios** | `*-tree.pkl`, `sorted-data.csv` [cite: 104] | Ninguno listado directamente. |
-| **Logs Compartidos** | **`logs.log`** (JSON format) [cite: 168] | [cite_start]Todos los módulos escriben en él[cite: 36, 53, 70, 89, 108, 135, 163]. |
+| **1. Ordenamientos Comparativos** | `books-by-isbn.pkl` | **3. Búsquedas** (Para crear tabla hash y buscar libros por ISBN). |
+| **2. Ordenamientos No Comparativos** | `ratings-by-user-id.pkl`  | **3. Búsquedas** (Para búsqueda binaria de ratings:. |
+| **3. Búsquedas** | Archivo `.pkl` con la **Tabla Hash** | Ninguno listado directamente. |
+| **4. Árboles Binarios** | `*-tree.pkl`, `sorted-data.csv` | Ninguno listado directamente. |
+| **5. Árboles N-arios** | `*-tree.pkl`, `sorted-data.csv`  | Ninguno listado directamente. |
+| **Logs Compartidos** | **`logs.log`** (JSON format) | Todos los módulos escriben en él |
 
 ---
