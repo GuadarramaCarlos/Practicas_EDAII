@@ -1,4 +1,4 @@
-# 📚 Proyecto Final: Sistema de Recomendación y Análisis de Libros
+# Proyecto Final: Sistema de Recomendación y Análisis de Libros
 
 ## **Proyecto Final – Estructuras de Datos Avanzados II (2026-1)**
 
@@ -6,7 +6,7 @@
 
 ## Objetivo General del Proyecto
 
-[cite_start]Desarrollar un **ecosistema modular** que permita explorar, buscar, analizar y recomendar libros a partir del Book Recommendation Dataset (`Books.csv`, `Ratings.csv`, `Users.csv`)[cite: 3]. [cite_start]Esto se logra aplicando las estructuras de datos y algoritmos estudiados en EDA II[cite: 3]. [cite_start]El sistema unificado se conforma integrando todos los módulos implementados por los equipos[cite: 6].
+Desarrollar un **ecosistema modular** que permita explorar, buscar, analizar y recomendar libros a partir del Book Recommendation Dataset (`Books.csv`, `Ratings.csv`, `Users.csv`) Esto se logra aplicando las estructuras de datos y algoritmos estudiados en EDA II.El sistema unificado se conforma integrando todos los módulos implementados por los equipos.
 
 ---
 
@@ -14,13 +14,13 @@
 
 El proyecto está organizado en carpetas individuales para cada uno de los siete módulos implementados:
 
-* **`01_ordenamientos_comparativos`**: Ordenamiento de libros (Quick Sort, Merge Sort, Heap Sort)[cite: 20].
-* **`02_ordenamientos_no_comparativos`**: Ordenamiento de usuarios y ratings (Counting Sort, Radix Sort)[cite: 37, 38].
-* **`03_busquedas`**: Búsquedas de usuarios, libros y ratings (Hashing, Búsqueda Binaria, Centinela)[cite: 54, 55].
-* **`04_arboles_binarios`**: Inserción y búsqueda de nuevos libros (BST, AVL, Red-Black)[cite: 71, 72].
-* **`05_arboles_n_arios`**: Inserción y búsqueda de nuevos usuarios (Árboles B y B+)[cite: 90, 91].
-* **`06_grafos_no_ponderados`**: Recorridos para encontrar islas y caminos (BFS, DFS)[cite: 110, 111].
-* **`07_grafos_ponderados`**: Recorridos para encontrar caminos más cortos (Dijkstra)[cite: 137, 138].
+* **`01_ordenamientos_comparativos`**: Ordenamiento de libros (Quick Sort, Merge Sort, Heap Sort).
+* **`02_ordenamientos_no_comparativos`**: Ordenamiento de usuarios y ratings (Counting Sort, Radix Sort).
+* **`03_busquedas`**: Búsquedas de usuarios, libros y ratings (Hashing, Búsqueda Binaria, Centinela).
+* **`04_arboles_binarios`**: Inserción y búsqueda de nuevos libros (BST, AVL, Red-Black).
+* **`05_arboles_n_arios`**: Inserción y búsqueda de nuevos usuarios (Árboles B y B+).
+* **`06_grafos_no_ponderados`**: Recorridos para encontrar islas y caminos (BFS, DFS).
+* **`07_grafos_ponderados`**: Recorridos para encontrar caminos más cortos (Dijkstra).
 
 ---
 
